@@ -1,1 +1,9 @@
-alert("This is an alert I created in index.js!");
+var number = 1
+
+function numberfunc() {
+	return number + 1;
+}
+
+numberfunc()
+
+Javascript: document.getElementById("number").innerHTML
